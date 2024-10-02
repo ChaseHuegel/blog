@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Chase Huegel
-email: ultimga@gmail.com
+email: chase@chasehuegel.io
 description: >- # this means to ignore newlines until "baseurl:"
   Chase is an enthusiastic developer and problem solver with a strong foundation in business & tech. He is a father, hobby artist, go-to tech support, and dungeon master that loves the great outdoors and adventures in coding.
 baseurl: "" # the subpath of your site, e.g. /blog
