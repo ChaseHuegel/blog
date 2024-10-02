@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Sample
+permalink: /sample/
 ---
 
 {% include googleDrivePlayer.html id="1d6blIjoFsG0uprxsw-oBLKeGMD8-TrEv/preview" %}
